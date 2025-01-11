@@ -10,7 +10,6 @@
   <ItemGroup>
     <Folder Include="App\" />
     <Folder Include="DataAcces\" />
-    <Folder Include="Recipes\" />
   </ItemGroup>
 
 </Project>
