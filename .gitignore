@@ -129,3 +129,6 @@ $RECYCLE.BIN/
 _NCrunch*
 /MasterClass/.vs/MasterClass
 /MasterClass/MasterClass
+/MasterClass/.vs/ProjectEvaluation
+/MasterClass/MasterClass.sln
+*.csproj
